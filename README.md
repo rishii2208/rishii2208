@@ -1,6 +1,6 @@
 ---
-title: anmol098
-date: '2020-14-05'
+title: rishii2208
+date: '2024-14-05'
 spoiler: Code Styled Readme Template
 categories: ["code-styled", "all-profile"]
 githubUsername: 'rishii2208'
