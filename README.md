@@ -12,13 +12,13 @@ githubUsername: 'rishii2208'
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/rishii_2208?label=Follow)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rishi-raj-prajapati//)](https://www.linkedin.com/in/rishi-raj-prajapati/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-rishi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rishi-raj-prajapati//)](https://www.linkedin.com/in/rishi-raj-prajapati/)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
+const rishi = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Python", "Java", "php"],
     askMeAbout: ["web dev", "tech", "app dev", "Blockchain"],
