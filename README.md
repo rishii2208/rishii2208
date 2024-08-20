@@ -20,20 +20,19 @@ githubUsername: 'rishii2208'
 ```javascript
 const rishi = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java", "php"],
-    askMeAbout: ["web dev", "tech", "app dev", "Blockchain"],
+    code: ["Javascript", "Typescript", "Python","SQL"],
+    askMeAbout: ["web dev", "tech", "Data Science", "Machine Learning"],
     technologies: {
-        mobileApp: ["Android App"],
         frontEnd: {
-            js: ["Vue", "Next"],
+            js: ["ReactJS", "Next"],
             css: ["materialize", "vuetify", "bootstrap"]
         },
         backEnd: {
             js: ["node", "express", "SuiteScript"],
             python: ["flask"]
         },
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        databases: ["mongo", "MySql"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "Tensorflow", "SuiteApp"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentProject: "I am currently working as Intern in Zebpay",
@@ -64,8 +63,8 @@ const rishi = {
 💬 Tech: 
 Typescript                   2 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   29.7% 
 DSA                          1 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   27.69%
-Smart Contracts              2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.12% 
-Flutter                      1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.46% 
+Coursework                   2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.12% 
+Machine Learning             1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.46% 
 Firebase                     5 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.74%
 
 🔥Day: 
