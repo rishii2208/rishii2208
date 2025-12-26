@@ -1,5 +1,5 @@
 ![](https://tenor.com/bSP55.gif)
-hi# Hello, I'm Rishi! 👋 ![](https://komarev.com/ghpvc/?username=siinghd)
+hi# Hello, I'm Rishi! 👋 ![](https://komarev.com/ghpvc/?username=rishii2208)
 
 I'm a Software engineer
 
